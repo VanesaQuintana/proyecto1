@@ -1,0 +1,28 @@
+
+article {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 500px;
+    align-items: center;
+}
+
+section{
+    background-image: url(./hawaii.jpg);
+    background-color: rgb(50, 50, 50);
+    background-blend-mode: soft-light;
+}
+
+.text{
+    text-align: center;
+}
+ 
+form{
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-bottom: 20em;
+}
+
+.card-body{
+    margin-left: 1em;
+    margin-top: 2em;
+}
